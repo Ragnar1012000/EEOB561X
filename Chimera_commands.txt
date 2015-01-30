@@ -1,0 +1,4 @@
+Coulombic Electrostatic potential: (under Tools... Surface/Binding Analysis)
+
+	
+Amino Acid Hydrophobicity: rangecolor kdHydrophobicity min blue 0 white max orange red
